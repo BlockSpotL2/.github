@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/xHrkYwd/Fee-Sharing.png" alt="StealthPad" />
 </h1>
 
-## BlockSpot! 🥷🏾
+## BlockSpot!
 
 - 🦔 Building  [BlockSpot](https://blockspot.tech/) 
 
