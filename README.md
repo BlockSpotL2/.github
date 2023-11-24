@@ -8,4 +8,4 @@
 
 ## Contact
 
-- [SleathPad](https://twitter.com/BlockSpotL22) on Twitter
+- [BlockSpot](https://twitter.com/BlockSpotL22) on Twitter
